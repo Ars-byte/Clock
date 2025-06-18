@@ -1,5 +1,12 @@
 # Clock
 
+
+
+https://github.com/user-attachments/assets/b5e29088-eef8-4b80-aeb2-f457e1c7009b
+
+
+
+
 Esta aplicación desarrollada con tkinter y customtkinter ofrece tres funciones en una interfaz oscura moderna:
 
     Reloj: Muestra la hora actual en tiempo real.
