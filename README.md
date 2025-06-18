@@ -8,6 +8,11 @@ Esta aplicación desarrollada con tkinter y customtkinter ofrece tres funciones 
 
     Temporizador: Configurable con horas, minutos y segundos, notifica al terminar.
 
+
+### DEPENDENCIAS (importante): 
+
+pip install -r requirements.txt 
+
 ## Tecnologías: Python, Tkinter, CustomTkinter.
 ## Características: Interfaz intuitiva, diseño oscuro, manejo de eventos eficiente.
 
@@ -20,6 +25,10 @@ This app built with tkinter and customtkinter combines three tools in a sleek da
     Stopwatch: Start/pause/reset with millisecond precision.
 
     Timer: Customizable (hours/minutes/seconds) with end notification.
+
+### DEPENDENCES(IMPORTANT):
+
+pip install -r requirements.txt 
 
 ## Tech Stack: Python, Tkinter, CustomTkinter.
 ## Features: Intuitive UI, dark mode, efficient event handling.
